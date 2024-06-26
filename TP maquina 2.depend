@@ -1,0 +1,142 @@
+# depslib dependency file v1.0
+1712688612 source:c:\users\usuario\desktop\g8_p2\tp maquina 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Envios.h"
+	"LIBT.h"
+	"ABB.h"
+	"LSOBB.h"
+
+1712688093 c:\users\usuario\desktop\g8_p2\tp maquina 2\envios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1712688631 c:\users\usuario\desktop\g8_p2\tp maquina 2\libt.h
+	"Envios.h"
+	<String.h>
+
+1712688618 c:\users\usuario\desktop\g8_p2\tp maquina 2\abb.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"Envios.h"
+	<malloc.h>
+
+1712688324 c:\users\usuario\desktop\g8_p2\tp maquina 2\lsobb.h
+	"Envios.h"
+	<String.h>
+	<math.h>
+
+1712688838 source:c:\users\usuario\desktop\tp maquina 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Envios.h"
+	"LIBT.h"
+	"ABB.h"
+	"LSOBB.h"
+
+1712688094 c:\users\usuario\desktop\tp maquina 2\envios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1712691108 c:\users\usuario\desktop\tp maquina 2\libt.h
+	"Envios.h"
+	<String.h>
+
+1712688620 c:\users\usuario\desktop\tp maquina 2\abb.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"Envios.h"
+	<malloc.h>
+
+1712691121 c:\users\usuario\desktop\tp maquina 2\lsobb.h
+	"Envios.h"
+	<String.h>
+
+1714279438 source:c:\users\mateo\onedrive\escritorio\lsobb-libt-abb\main.c
+	<stdio.h>
+	<direct.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Envios.h"
+	"LIBT.h"
+	"ABB.h"
+	"LSOBB.h"
+
+1714274947 c:\users\mateo\onedrive\escritorio\lsobb-libt-abb\envios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1714279715 c:\users\mateo\onedrive\escritorio\lsobb-libt-abb\libt.h
+	"Envios.h"
+	<String.h>
+
+1714274947 c:\users\mateo\onedrive\escritorio\lsobb-libt-abb\abb.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"Envios.h"
+	<malloc.h>
+
+1714276660 c:\users\mateo\onedrive\escritorio\lsobb-libt-abb\lsobb.h
+	"Envios.h"
+	<String.h>
+	<math.h>
+
+1715612055 source:c:\users\usuario\desktop\lsobb-libt-abb-master\main.c
+	<stdio.h>
+	<direct.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Envios.h"
+	"LIBT.h"
+	"ABB.h"
+	"LSOBB.h"
+
+1715550533 c:\users\usuario\desktop\lsobb-libt-abb-master\envios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1715611231 c:\users\usuario\desktop\lsobb-libt-abb-master\libt.h
+	"Envios.h"
+	<String.h>
+
+1715611620 c:\users\usuario\desktop\lsobb-libt-abb-master\abb.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"Envios.h"
+	<malloc.h>
+
+1715612323 c:\users\usuario\desktop\lsobb-libt-abb-master\lsobb.h
+	"Envios.h"
+	<String.h>
+	<math.h>
+

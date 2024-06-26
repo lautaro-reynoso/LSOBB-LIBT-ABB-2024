@@ -1,0 +1,3 @@
+C:/Users/lautaro/OneDrive/Escritorio/LSOBB-LIBT-ABB-master/cmake-build-debug/CMakeFiles/LSOBB_LIBT_ABB.dir
+C:/Users/lautaro/OneDrive/Escritorio/LSOBB-LIBT-ABB-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lautaro/OneDrive/Escritorio/LSOBB-LIBT-ABB-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
